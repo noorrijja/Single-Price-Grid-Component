@@ -41,6 +41,9 @@ body {
   font-weight: 400;
   margin-block-start: 0;
 }
+.dual {
+  width: 100%;
+}
 .block-2 {
   width: 100%;
   background-color: hsl(179, 62%, 43%);
@@ -99,7 +102,6 @@ ul {
     display: flex;
   }
   .flex-container {
-    width: 50%;
     margin: auto;
   }
   .dual {
